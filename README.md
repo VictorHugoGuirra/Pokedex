@@ -1,0 +1,2 @@
+<h1 align="center"> Pokedex </h1>
+como resumir essa descriçao A PokeAgenda é uma aplicação web dinâmica que permite aos usuários explorar a lista de Pokémon de forma interativa, implementando um sistema de scroll infinito. Com esta aplicação, você pode visualizar os 15 primeiros Pokémon e carregar mais à medida que rola para baixo, utilizando JavaScript, CSS e HTML. A aplicação consome dados de uma API pública para garantir informações atualizadas.
